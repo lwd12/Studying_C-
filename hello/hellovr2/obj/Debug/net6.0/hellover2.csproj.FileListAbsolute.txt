@@ -1,0 +1,15 @@
+C:\Mb_lwj\c#\hello\hellovr2\obj\Debug\net6.0\hellover2.csproj.AssemblyReference.cache
+C:\Mb_lwj\c#\hello\hellovr2\obj\Debug\net6.0\hellover2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mb_lwj\c#\hello\hellovr2\obj\Debug\net6.0\hellover2.AssemblyInfoInputs.cache
+C:\Mb_lwj\c#\hello\hellovr2\obj\Debug\net6.0\hellover2.AssemblyInfo.cs
+C:\Mb_lwj\c#\hello\hellovr2\obj\Debug\net6.0\hellover2.csproj.CoreCompileInputs.cache
+C:\Mb_lwj\c#\hello\hellovr2\bin\Debug\net6.0\hellover2.exe
+C:\Mb_lwj\c#\hello\hellovr2\bin\Debug\net6.0\hellover2.deps.json
+C:\Mb_lwj\c#\hello\hellovr2\bin\Debug\net6.0\hellover2.runtimeconfig.json
+C:\Mb_lwj\c#\hello\hellovr2\bin\Debug\net6.0\hellover2.dll
+C:\Mb_lwj\c#\hello\hellovr2\bin\Debug\net6.0\hellover2.pdb
+C:\Mb_lwj\c#\hello\hellovr2\obj\Debug\net6.0\hellover2.dll
+C:\Mb_lwj\c#\hello\hellovr2\obj\Debug\net6.0\refint\hellover2.dll
+C:\Mb_lwj\c#\hello\hellovr2\obj\Debug\net6.0\hellover2.pdb
+C:\Mb_lwj\c#\hello\hellovr2\obj\Debug\net6.0\hellover2.genruntimeconfig.cache
+C:\Mb_lwj\c#\hello\hellovr2\obj\Debug\net6.0\ref\hellover2.dll
